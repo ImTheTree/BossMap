@@ -1,0 +1,76 @@
+
+Mecha hc 1. boss, Polarities mechanic
+
+za boss, aoe bombem spreading
+
+napalm bombs:
+	der boss schießt random Napalmprojektile die beim aufprall eine kleine Explosion erzeugen
+
+homing fireballs, der boss schießt auf random spieler feuerbälle die ihnen hinterherfliegen, diese
+	können an anderen feuerbällen abprallen und somit ausgeschaltet werden, wenn sie jedoch einen 
+	spieler treffen fügen sie hohen schaden zu
+
+the ground is lava, spieler ziehen eine feuerspur hinter sich her die großen schaden verursacht.
+(38 range)
+
+meteorrain, vom himmel regnen meteore herunter die beim aufprall eine große explosion erzeugen
+
+flyphase, boss wird in die luft teleportiert und bekommt ein schild was ihn über zeit heilt.
+	außerdem zerbricht der Boden. ein spieler muss einen kristall zerstören der auf einer random 
+	plattform spawnt und ein anderer muss in ein ebenfalls random spawnendes portal springen 
+	welches ihn zu einer kanone teleportiert, diese muss er benutzen um den boss abzuschießen 
+	und somit die flyphase zu beenden.
+	während des gesammten bosskampfes lassen villager (die Zuschauer 
+	von oben) munition für die kanone fallen mit der man dann den boss abschießen kann.
+
+firegrid, erzeugt fortbewegende laser auf dem Boden und in kopfhöhe wo man drüberspringen bzw 
+	druntercrouchen muss um keinen schaden zu bekommen
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

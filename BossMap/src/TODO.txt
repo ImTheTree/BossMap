@@ -1,0 +1,11 @@
+Lobby: (important)
+
+Classes: (second important)
+	- spells
+	- items
+	- hp etc
+
+Boss:
+	- dmg etc
+	- spells
+	- phases

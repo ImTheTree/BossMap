@@ -1,0 +1,12 @@
+main: me.darklolly0312.map.BossMap.init
+name: BossMap
+version: 0.1a
+api-version: 1.16
+author: darklolly0312
+website: www.darks-buildings.jimdo.com
+
+commands:
+  bossmap:
+    aliases: [bm]
+  setclass:
+    aliases: [st,setc,sclass,class]
