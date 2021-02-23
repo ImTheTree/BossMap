@@ -1,0 +1,2 @@
+# BossMap
+BossMap Plugin
