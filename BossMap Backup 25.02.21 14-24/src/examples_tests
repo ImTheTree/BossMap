@@ -1,0 +1,133 @@
+randoms:
+	w.spawnParticle(Particle.SMOKE_LARGE, pos, 250, 0, Math.random() / 2,0, 0.3);
+	e.getWorld().playSound(e.getLocation(), Sound.ITEM_TOTEM_USE, (float) 0.1, (float) 2);
+		
+FireworkExplosion:
+	w.spawnParticle(Particle.REDSTONE, arrow.getLocation(), 30, Math.random() / 4, Math.random() / 4, Math.random() / 4, 0.3, new Particle.DustOptions(Color.RED,1));
+	w.spawnParticle(Particle.REDSTONE, arrow.getLocation(), 10, Math.random() / 6, Math.random() / 6, Math.random() / 6, 0.3, new Particle.DustOptions(Color.ORANGE,1));
+	
+	
+	
+	
+	
+Firework:
+
+Firework fw = (Firework) loc.getWorld().spawnEntity(loc, EntityType.FIREWORK);
+			FireworkMeta meta = fw.getFireworkMeta();
+			
+			FireworkEffect effect = FireworkEffect.builder()
+					.flicker(false)
+					//.withColor(Color.RED, Color.RED, Color.RED, Color.RED, Color.RED, Color.RED, Color.RED, Color.ORANGE)
+					.withColor(Color.GRAY, Color.GRAY, Color.GRAY, Color.GRAY, Color.GRAY, Color.GRAY, Color.SILVER, Color.SILVER, Color.RED, Color.ORANGE)
+					.with(Type.BALL_LARGE)
+					.with(Type.BURST)
+				.build();
+			
+			meta.addEffect(effect);
+			meta.setPower(0);
+			fw.setFireworkMeta(meta);
+			fw.setSilent(true);
+			firework = fw;
+			
+			fw.detonate();
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

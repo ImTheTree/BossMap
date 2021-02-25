@@ -1,0 +1,17 @@
+Lobby: (important)
+CAM BESTELLEN
+Classes: (second important)
+	- SAFETY stuff, give items on world enter, remove items on quitserver, serverreload/-restart and leave world (MOST important)
+	- spells
+	- items
+	- hp etc
+
+Boss:
+	- dmg etc
+	- spells
+	- phases
+	- walkprotection:
+		- so he cant fall into the lava on phase 
+		
+Dummies:
+	- change names to Healattrappe and Kampfattrappe
